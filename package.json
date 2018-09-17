@@ -1,0 +1,15 @@
+{
+  "name": "textventure",
+  "version": "1.0.0",
+  "description": "Text-based game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Aaron Pillert",
+  "license": "MIT",
+  "devDependencies": {
+    "@webpack-cli/init": "^0.1.0",
+    "electron": "^2.0.9"
+  }
+}
